@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: wc.pub
+  name: 我们聊聊.吧
   text: 分门别类的引导语大全
   tagline: 这里汇集了丰富的 ChatGPT 引导语、创意写作灵感与实用技巧。让我们帮助您激发无限创意，提升写作效率与质量。
   image:
@@ -11,11 +11,11 @@ hero:
       alt: wc.pub
   actions:
     - theme: brand
-      text: Navigation
-      link: /navigation/index
+      text: 导航
+      link: /zh/navigation/index
     - theme: alt
-      text: Practice
-      link: /practice/index
+      text: 实践
+      link: /zh/practice/index
 
 features:
   - title: 学术论文
