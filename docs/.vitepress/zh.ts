@@ -75,6 +75,14 @@ function sidebarNavigation(): DefaultTheme.SidebarItem[] {
       items: [
         { text: '什么是导航', link: 'index' }
       ]
+    },
+    {
+      text: '网站',
+      collapsed: false,
+      items: [
+        { text: 'Globe Explorer', link: 'web/globe-explorer' },
+        { text: 'PicX', link: 'web/picx' }
+      ]
     }
   ]
 }

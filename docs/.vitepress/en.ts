@@ -51,6 +51,14 @@ function sidebarNavigation(): DefaultTheme.SidebarItem[] {
       items: [
         { text: 'What is Navigation', link: 'index' }
       ]
+    },
+    {
+      text: 'Web',
+      collapsed: false,
+      items: [
+        { text: 'Globe Explorer', link: 'web/globe-explorer' },
+        { text: 'PicX', link: 'web/picx' }
+      ]
     }
   ]
 }
