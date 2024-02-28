@@ -57,7 +57,8 @@ function sidebarNavigation(): DefaultTheme.SidebarItem[] {
       collapsed: false,
       items: [
         { text: 'Globe Explorer', link: 'web/globe-explorer' },
-        { text: 'PicX', link: 'web/picx' }
+        { text: 'PicX', link: 'web/picx' },
+        { text: 'VR Wonder World', link: 'web/vr-wonder-world' }
       ]
     }
   ]
