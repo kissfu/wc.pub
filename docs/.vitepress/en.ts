@@ -58,7 +58,8 @@ function sidebarNavigation(): DefaultTheme.SidebarItem[] {
       items: [
         { text: 'Globe Explorer', link: 'web/globe-explorer' },
         { text: 'PicX', link: 'web/picx' },
-        { text: 'VR Wonder World', link: 'web/vr-wonder-world' }
+        { text: 'VR Wonder World', link: 'web/vr-wonder-world' },
+        { text: 'Tool Browser QQ', link: 'tool-browser-qq'}
       ]
     }
   ]
